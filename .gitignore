@@ -1,0 +1,7 @@
+# Go
+*.exe
+*.test
+*.out
+
+# 스파이크 산출물
+spike/spike
